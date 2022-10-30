@@ -1,14 +1,14 @@
-# Project : Template
+# Project : Random User App v2
 
 ## Check The Live Website ➡️ [Live Website](https://skycooper.github.io)
 
 ## Visualization of the Website
 
-![Form](./gallery.gif)
+![Form](./random.gif)
 
 ## Description
 
-Project aims to create an app using React.
+Project aims to create an Random User app with React.
 
 ## Learning Outcomes
 
@@ -32,29 +32,24 @@ Project(folder)
 │     └── index.html
 ├── src
 │    ├── components
-│    │       ├── Picture.jsx
-│    ├── pages
-│    │       ├── Homepage.jsx
-│    ├── helper
-│    │       └── data.js
-│    ├── styles
-│    │       ├── style.css
+│    │       ├── Footer.js
+│    │       ├── Footer.css
+│    ├── assests
 │    ├── App.js
 │    ├── index.js
+│    ├── App.css
+│    ├── index.css
 └── package.json
 ```
 
 ### Dependencies
 
+- react-dom@6.3
+
 - axios
 
-- react-router
+- https://randomuser.me/api/
 
-- https://api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}
-
-- styled-components
-
-- bootstrap
 
 ### Overview
 
@@ -65,7 +60,7 @@ You can see the visual representation of the website above.
 
 - Step 1: Create React App using `npx create-react-app project-name`
 
-- Step 2: For images you can use [Images](./src/helper/data.js).
+- Step 2: For images you can use [Images](./src/assests).
 
 - Step 3: Push your application into your own public repo on Github
 
@@ -73,7 +68,7 @@ You can see the visual representation of the website above.
 
 ## Resources
 
-- 🔥 You can use [`data.js`](./src/helper/data.js) for your own work.
+- 🔥 You can use [`random-user-API`]("https://randomuser.me/api/") for your own work.
 
 ## Support
 - Open an Issue, I will check it a soon as possible 👀
