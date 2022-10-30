@@ -68,7 +68,7 @@ You can see the visual representation of the website above.
 
 ## Resources
 
-- 🔥 You can use [`random-user-API`]("https://randomuser.me/api/") for your own work.
+- 🔥 You can use [`random-user-API`](https://randomuser.me/api/) for your own work.
 
 ## Support
 - Open an Issue, I will check it a soon as possible 👀
